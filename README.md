@@ -7,3 +7,6 @@ GVHD: Tạ Thị Thanh Mai
 
 Họ tên SV: Nguyễn Hải Đăng <br>
 MSSV: 20185333 <br>
+
+Bài toán đàn hồi trường hợp 1 là ver1 <br>
+Bài toán đàn hồi trường hợp 2 là ver2 <br>
